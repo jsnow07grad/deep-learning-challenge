@@ -1,5 +1,5 @@
 # deep-learning-challenge
-The repository will house the requirements for the GWU course assignment, Module 20.
+The repository will house the requirements for the GWU course assignment, Module 21.
 
 Below are the details of the requirements:
 
